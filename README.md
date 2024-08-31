@@ -1,3 +1,5 @@
+![Logo](https://images.ctfassets.net/lzny33ho1g45/7sYLMymQDinPKZQS77P4BX/9545150792946dbb3c3d48f0fd18b55a/Zapier_logo.jpg)
+
 
 # Zapier Integration for Sending Solana and Emails
 This Zapier integration is designed to automate the process of sending Solana (SOL) transactions and dispatching emails. Whether you need to manage cryptocurrency payments or automate email notifications, this tool streamlines your workflow by connecting these tasks to your preferred apps on Zapier.
@@ -59,5 +61,4 @@ run the server in all directory
 ```
 
 
-![Logo](https://images.ctfassets.net/lzny33ho1g45/7sYLMymQDinPKZQS77P4BX/9545150792946dbb3c3d48f0fd18b55a/Zapier_logo.jpg)
 
