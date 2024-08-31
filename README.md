@@ -59,5 +59,5 @@ run the server in all directory
 ```
 
 
-![Logo]([https://cdn.freelogovectors.net/wp-content/uploads/2024/03/zapier-logo-freelogovectors.net_.png](https://images.ctfassets.net/lzny33ho1g45/7sYLMymQDinPKZQS77P4BX/9545150792946dbb3c3d48f0fd18b55a/Zapier_logo.jpg))
+![Logo](https://images.ctfassets.net/lzny33ho1g45/7sYLMymQDinPKZQS77P4BX/9545150792946dbb3c3d48f0fd18b55a/Zapier_logo.jpg)
 
